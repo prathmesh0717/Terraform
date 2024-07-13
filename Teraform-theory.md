@@ -1,5 +1,5 @@
 ${\color{green} \textbf{Teraform Theory}}$
-````
+
 Terraform is an infrastructure as code tool using which we can provision and manage infrastructure in any cloud.
 
 
