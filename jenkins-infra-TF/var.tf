@@ -1,4 +1,4 @@
-/*variable "vpc_cidr_block" {
+variable "vpc_cidr_block" {
   type = string
 }
 variable "aws_subnet" {
@@ -24,4 +24,4 @@ variable "instance_tags" {
 }
 variable "instance_tags_dev" {
   type = map(string)
-}*/
+}
